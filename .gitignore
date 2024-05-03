@@ -1,0 +1,8 @@
+# IGNORE ENV VARIABLE
+*.env
+
+# IGNORE .VSCODE
+*.vscode
+
+# IGNORE EXEC FILE
+go-crud-api
